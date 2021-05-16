@@ -1,7 +1,7 @@
 <div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffb6c1&height=200&section=header&fontSize=90)
-# ⭐ Welcome to hea jeong dev ver. github ⭐
+# ⭐ Welcome to hae jeong dev ver. github ⭐
 
 
 ### 🛠 Technical Stack
